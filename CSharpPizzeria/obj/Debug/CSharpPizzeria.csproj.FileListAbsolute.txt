@@ -1,0 +1,7 @@
+C:\Users\Juan Carlos\Documents\GitHub\CSharpPizzeria\CSharpPizzeria\bin\Debug\CSharpPizzeria.exe.config
+C:\Users\Juan Carlos\Documents\GitHub\CSharpPizzeria\CSharpPizzeria\bin\Debug\CSharpPizzeria.exe
+C:\Users\Juan Carlos\Documents\GitHub\CSharpPizzeria\CSharpPizzeria\bin\Debug\CSharpPizzeria.pdb
+C:\Users\Juan Carlos\Documents\GitHub\CSharpPizzeria\CSharpPizzeria\obj\Debug\CSharpPizzeria.csprojAssemblyReference.cache
+C:\Users\Juan Carlos\Documents\GitHub\CSharpPizzeria\CSharpPizzeria\obj\Debug\CSharpPizzeria.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos\Documents\GitHub\CSharpPizzeria\CSharpPizzeria\obj\Debug\CSharpPizzeria.exe
+C:\Users\Juan Carlos\Documents\GitHub\CSharpPizzeria\CSharpPizzeria\obj\Debug\CSharpPizzeria.pdb
